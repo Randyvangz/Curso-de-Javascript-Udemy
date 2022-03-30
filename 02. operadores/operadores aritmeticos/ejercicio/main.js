@@ -1,0 +1,10 @@
+let a = 2;
+let b = 20;
+let c = 3;
+console.log(a,b);
+c +=4;
+console.log(c);
+c ++;
+console.log(c);
+c**=a;
+console.log(c);
